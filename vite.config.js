@@ -8,4 +8,5 @@ export default defineConfig({
     react(),
     tailwindcss(),
   ],
+  base: '/davidpfolio/', // 👈 Ligne ajoutée pour corriger la page blanche
 })
