@@ -8,5 +8,5 @@ export default defineConfig({
     react(),
     tailwindcss(),
   ],
-  base: '/davidpfolio/', // 👈 Ligne ajoutée pour corriger la page blanche
+  base: './', //  ' ./ ' permet de fonctionner aussi bien sur Render que sur GitHub Pages
 })
