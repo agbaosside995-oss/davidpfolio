@@ -20,7 +20,7 @@ export default function Hero() {
         <h1 className="text-4xl sm:text-5xl md:text-6xl font-extrabold tracking-tighter mb-6 leading-[1.1]">
           Propulsez vos idées avec un<br/>
           <span className="text-sky-400 bg-clip-text bg-gradient-to-r from-sky-400 to-sky-300">
-            Développeur Web expert en React
+            Développeur Web et Mobile 
           </span>
         </h1>
 
